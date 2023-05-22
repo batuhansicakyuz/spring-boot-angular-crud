@@ -1,0 +1,10 @@
+POST
+localhost:8080/add
+{
+    "name": "Elon Musk",
+    "email": "eelon@gmail.com",
+    "pNo": "999999999",
+    "address": "USA",
+    "dob": "dnm",
+    "gender": "Male"
+}
